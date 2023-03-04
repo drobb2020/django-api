@@ -171,7 +171,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/dr
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Thanks to John Elder at Codemy.com for providing this course.
 
 - [Choose an Open Source License](https://choosealicense.com)
 - [Img Shields](https://shields.io)
